@@ -2,6 +2,9 @@
 # 環境設定
 Jupyter Notebookでの設定
 
+## ffmpeg-pythonのインストール
+`pip install ffmpeg-python`
+
 ## YouTube DLのインストール
 `pip install --upgrade youtube-dl`
 
@@ -11,6 +14,8 @@ Jupyter Notebookでの設定
 
 再起動必要
 ## インポート
+`import ffmpeg`
+
 `import youtube_dl`
 
 `from moviepy.editor import *`
