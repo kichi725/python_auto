@@ -19,3 +19,14 @@ Jupyter Notebookでの設定
 `import youtube_dl`
 
 `from moviepy.editor import *`
+
+# Python スクレイピング
+## seleniumインストール
+`pip install selenium`
+
+使用時
+
+`from selenium import webdriber`
+
+## chromedriverダウンロード
+https://sites.google.com/a/chromium.org/chromedriver/downloads
